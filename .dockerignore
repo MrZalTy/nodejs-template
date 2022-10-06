@@ -24,6 +24,24 @@ node_modules/
 # dotenv environment variables file
 .env
 .env.test
+.env.example
 
 # build output
 dist/
+
+# Lint
+.eslintignore
+.eslintrc.json
+.prettierrc.json
+
+# Tests
+test/
+jest.config.ts
+
+# Misc
+.github/
+.dockerignore
+.gitignore
+Dockerfile
+LICENSE
+README.md
