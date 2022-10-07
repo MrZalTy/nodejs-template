@@ -4,7 +4,6 @@
     "plugin:prettier/recommended"
   ],
   "rules": {
-    "import/prefer-default-export": "off",
     "prettier/prettier": "error"
   },
   "overrides": [
@@ -27,6 +26,7 @@
         "simple-import-sort"
       ],
       "rules": {
+        "import/prefer-default-export": "off",
         "prettier/prettier": "error",
         "simple-import-sort/imports": "error",
         "simple-import-sort/exports": "error"
