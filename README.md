@@ -23,7 +23,7 @@ Use the `Use this template` green button at the top of this repository to start 
 
 ## ✏️ License
 
-Node.js Template is distributed under the [MIT License](LICENSE)
+Node.js Template is distributed under the [MIT License](LICENSE).
 
 ## ✍️ Authors
 
